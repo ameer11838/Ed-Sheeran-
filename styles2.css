@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(60, 97, 199);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: lightseagreen;
+    text-align: center;
+    font-size: 300%; /* slightly smaller for better spacing */
+}
+
+h2 {
+    color: lightseagreen;
+    text-align: center;
+    font-size: 180%;
+}
+
+p {
+    text-align: center;
+    color: rgb(14, 230, 219);
+    font-size: 110%; /* slightly larger for readability */
+    margin: 10px 20px;
+}
+
+b {
+    color: rgb(247, 231, 16);
+    display: block;
+    text-align: center;
+    font-size: 115%;
+    margin: 15px 0;
+}
+
+dl {
+    color: rgb(247, 231, 16);
+    text-align: center;
+    font-size: 105%;
+    margin: 10px 40px;
+}
+
+th {
+    color: rgb(81, 240, 8);
+    font-family: Verdana, sans-serif;
+    font-size: 105%;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin: 20px auto;
+    width: 25%; /* slightly wider */
+    height: auto; /* keep proportions */
+}
+
+.center2 {
+    display: block;
+    margin: 20px auto;
+    width: 35%;
+    height: auto;
+}
+
+.center3 {
+    margin-left: auto;
